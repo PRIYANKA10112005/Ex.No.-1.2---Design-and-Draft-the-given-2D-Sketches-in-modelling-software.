@@ -1,7 +1,10 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+# NAME - PRIYANKA P
+# REFERENCE NUMBER - 24900671
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
+
  
 ## REQUIREMENTS
  1. Autodesk fusion 360
@@ -36,7 +39,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![snipped-ex1 2](https://github.com/user-attachments/assets/0e7f24eb-be07-40a2-8708-8330678d5a00)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
